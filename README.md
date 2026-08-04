@@ -19,3 +19,53 @@ const malith = {
   looking: "Internship Opportunities 2025",
   passion: "Building Amazing Web Applications"
 };
+🛠️ Tech Stack
+Frontend
+HTML5
+CSS3
+JavaScript
+React
+TypeScript
+
+Backend
+Node.js
+Express.js
+PHP
+
+Database
+MongoDB
+MySQL
+
+Tools
+Git
+GitHub
+VS Code
+
+📊 GitHub Stats
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=maliya2002&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=maliya2002&theme=tokyonight&hide_border=true" width="48%" /></div><div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maliya2002&layout=compact&theme=tokyonight&hide_border=true" width="48%" /></div>
+
+🏆 Featured Projects
+<div align="center">
+Smart Campus
+
+Portfolio
+
+</div>
+
+📫 Connect With Me
+<div align="center">
+LinkedIn
+Instagram
+Facebook
+Portfolio
+
+</div>
+
+📫 Connect With Me
+<div align="center">
+LinkedIn
+Instagram
+Facebook
+Portfolio
+
+</div>

@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
+  
+# Hi there, I'm Malith Madushan! 👋
 
-<!--
-**Maliya2002/maliya2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;3rd+Year+IT+Undergraduate;Always+Learning+New+Things!" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+```javascript
+const malith = {
+  name: "Malith Madushan",
+  role: "Aspiring Web Developer",
+  education: "3rd Year IT @ SLIIT",
+  location: "Sri Lanka 🇱🇰",
+  looking: "Internship Opportunities 2025",
+  passion: "Building Amazing Web Applications"
+};

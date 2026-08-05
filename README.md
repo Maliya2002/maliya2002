@@ -6,10 +6,10 @@
   <a href="https://www.linkedin.com/in/malith-madushan-a3a6b0263">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;
-  <a href="https://maliya2002.github.io">
+  <a href="https://malithmadushan.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>&nbsp;
-  <a href="mailto:malithmadushan@gmail.com">
+  <a href="mailto:malithmadushan25@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=maliya2002&label=Profile+Views&color=1F6FEB&style=for-the-badge"/>
@@ -28,7 +28,8 @@ const malith = {
   location    : "Sri Lanka 🇱🇰",
   available   : "Open to Internship Opportunities ✅",
   skills      : ["React", "Node.js", "MongoDB", "PHP", "TypeScript"],
-  currentFocus: "MERN Stack Development"
+  currentFocus: "MERN Stack Development",
+  portfolio   : "https://malithmadushan.vercel.app"
 };
 ```
 
@@ -82,14 +83,14 @@ const malith = {
 
 ## 🚀 Projects
 
-| # | Project | Description | Tech | Live |
+| # | Project | Description | Tech | Link |
 |---|---------|-------------|------|------|
-| 01 | 🏫 Smart Campus | Smart Campus Management System | JavaScript, React | [GitHub](https://github.com/maliya2002/it3030-paf-2026-smart-campus-group89) |
-| 02 | 🌐 Portfolio | Personal Portfolio Website | HTML, CSS | [Live](https://maliya2002.github.io) |
-| 03 | 🛍️ ShopNex | E-Commerce Web Application | MongoDB, Express, React, Node.js | [GitHub](https://github.com/maliya2002/shopnex) |
-| 04 | 📝 Simple Blog | Blog Web Application | PHP, MySQL | [GitHub](https://github.com/maliya2002/simple-blog) |
-| 05 | 💼 ITPM App | IT Project Management System | TypeScript, React | [GitHub](https://github.com/maliya2002/ITPM_Assignment01) |
-| 06 | ⚛️ Portfolio MERN | Full Stack Portfolio App | MongoDB, Express, React, Node.js | [GitHub](https://github.com/maliya2002/portfolio-mern) |
+| 01 | 🗓️ UNISLOT | University Academic Scheduling System | React, Node.js, MongoDB | [GitHub](https://github.com/kezu1003/UNISLOT---University-Academic-Scheduling-Resource-Management-System) |
+| 02 | 📚 SLIIT LMS | Learning Management System | React, Node.js, MongoDB | [Live](https://sliit-lms.vercel.app) |
+| 03 | 🛕 Buddhist Center | Official Website | HTML, CSS, JavaScript | [Live](https://boraluketiya-buddhist-center.vercel.app) |
+| 04 | 🏫 Smart Campus | Campus Management System | React, JavaScript, Node.js | [GitHub](https://github.com/maliya2002/it3030-paf-2026-smart-campus-group89) |
+| 05 | 🛍️ ShopNex | E-Commerce Web Application | MongoDB, Express, React, Node.js | [GitHub](https://github.com/maliya2002/shopnex) |
+| 06 | 📝 Simple Blog | Blog Web Application | PHP, MySQL | [GitHub](https://github.com/maliya2002/simple-blog) |
 
 ---
 
@@ -108,7 +109,7 @@ const malith = {
 | Platform | Link |
 |----------|------|
 | 💼 LinkedIn | [malith-madushan-a3a6b0263](https://www.linkedin.com/in/malith-madushan-a3a6b0263) |
-| 🌐 Portfolio | [maliya2002.github.io](https://maliya2002.github.io) |
+| 🌐 Portfolio | [malithmadushan.vercel.app](https://malithmadushan.vercel.app) |
 | 📧 Email | malithmadushan25@gmail.com |
 | 📸 Instagram | [@___ma_li_th__](https://instagram.com/___ma_li_th__) |
 | 👤 Facebook | [Malith Madushan](https://www.facebook.com/profile.php?id=100075333458275) |
